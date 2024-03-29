@@ -1,4 +1,4 @@
-# Melt Flow Rate Prediction from Polymer Production Dataset
+# Melt Flow Rate Prediction From Polymer Production Dataset
 
 This study aims to analyze polymer production data to predict the melt-flow rate by using several ML regression techniques.
 
