@@ -1,6 +1,6 @@
 # Melt Flow Rate Prediction From Polymer Production Dataset
 
-This study aims to analyze polymer production data to predict the melt-flow rate by using several ML regression techniques.
+This study aims to analyze polymer production data to predict the melt-flow rate (MFR) by using several Machine Learning (ML) Regression techniques.
 
 It utilizes the "polymer reactor" dataset from [Kaggle](https://www.kaggle.com/datasets/apek1999/predict-mpv-of-polymer)
 
